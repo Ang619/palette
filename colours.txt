@@ -5,7 +5,8 @@ Rot
 
 Grün
 
-Blau
+Hellblau
+Dunkelblau
 
 Gelb
 
