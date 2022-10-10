@@ -3,7 +3,8 @@ Farbpalette
 
 Rot
 
-Grün
+Hellgrün
+Dunkelgrün
 
 Blau
 
